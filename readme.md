@@ -164,11 +164,6 @@ The core idea: instead of relying on 𝗸𝗻𝗼𝘄𝗻 𝗮𝘁𝘁𝗮𝗰�
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=malaika-umbreen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-umbreen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=malaika-umbreen&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
@@ -178,10 +173,6 @@ The core idea: instead of relying on 𝗸𝗻𝗼𝘄𝗻 𝗮𝘁𝘁𝗮𝗰�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malaika-umbreen/malaika-umbreen/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/malaika-umbreen/malaika-umbreen/output/github-snake.svg" />
 </picture>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=malaika-umbreen&theme=tokyo-night&hide_border=true" />
 
 </div>
 
