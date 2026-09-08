@@ -181,7 +181,7 @@ The core idea: instead of relying on 𝗸𝗻𝗼𝘄𝗻 𝗮𝘁𝘁𝗮𝗰�
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MalaikaUmbreen&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malaika-umbreen&theme=tokyo-night&hide_border=true" />
 
 </div>
 
