@@ -10,8 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malaika_Umbreen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malaika-umbreen)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Malaika.Umbreen-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Malaika.Umbreen)
-[![GitHub](https://img.shields.io/badge/GitHub-MalaikaUmbreen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MalaikaUmbreen)
-[![Views](https://komarev.com/ghpvc/?username=MalaikaUmbreen&style=for-the-badge&color=00d9ff&label=Profile+Views)](https://github.com/MalaikaUmbreen)
+[![GitHub](https://img.shields.io/badge/GitHub-malaika--umbreen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malaika-umbreen)
+[![Views](https://komarev.com/ghpvc/?username=malaika-umbreen&style=for-the-badge&color=00d9ff&label=Profile+Views)](https://github.com/malaika-umbreen)
 
 </div>
 
@@ -44,7 +44,7 @@ Also an AI agent feature added through OPENCLAW in which AI agents connected to 
 The core idea: instead of relying on 𝗸𝗻𝗼𝘄𝗻 𝗮𝘁𝘁𝗮𝗰𝗸 𝘀𝗶𝗴𝗻𝗮𝘁𝘂𝗿𝗲𝘀, StegFix learns 𝗻𝗲𝘁𝘄𝗼𝗿𝗸 𝗯𝗲𝗵𝗮𝘃𝗶𝗼𝗿 so it can detect 𝘂𝗻𝘀𝗲𝗲𝗻 𝗻𝗲𝘁𝘄𝗼𝗿𝗸 𝘀𝘁𝗲𝗴𝗮𝗻𝗼𝗴𝗿𝗮𝗽𝗵𝘆.
 
 
-**[View Repository →](https://github.com/MalaikaUmbreen/Network-Steganography)**
+**[View Repository →](https://github.com/malaika-umbreen/Network-Steganography)**
 
 
 <br clear="right"/>
@@ -119,13 +119,13 @@ The core idea: instead of relying on 𝗸𝗻𝗼𝘄𝗻 𝗮𝘁𝘁𝗮𝗰�
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
--  **[Network-Steganography](https://github.com/MalaikaUmbreen/Network-Steganography)** — Transformer-based covert channel detector + Web App + Agentic AI Analyst *(FYP)*
--  **[Home-SOC-lab](https://github.com/MalaikaUmbreen/Home-SOC-Lab)** — Full deployment documentation for a self-hosted SIEM using Wazuh, Sysmon, and open-source security tools.
--  **[Open-Claw-Deployment](https://github.com/MalaikaUmbreen/OPEN-CLAW-Deployment)** — AI-powered SOC automation — OpenClaw AI agent orchestration.
--  **[SOC-Lab-BruteForce-SSH](https://github.com/MalaikaUmbreen/SOC-Lab-BruteForce-SSH)** — SSH brute force simulation · Wazuh SIEM detection · Incident report
--  **[SOC-Network-Attacks-Lab](https://github.com/MalaikaUmbreen/SOC-Network-Attacks-Lab)** — Nmap · SMB enumeration · Network attack detection
--  **[Extensive-EDA](https://github.com/MalaikaUmbreen/Extensive-EDA)** — Data analysis & ML visualization pipeline
--  **[Employee-Management](https://github.com/MalaikaUmbreen/Employee-Management_)** — Full-stack web system · PHP · MySQL · HTML/CSS
+-  **[Network-Steganography](https://github.com/malaika-umbreen/Network-Steganography)** — Transformer-based covert channel detector + Web App + Agentic AI Analyst *(FYP)*
+-  **[Home-SOC-lab](https://github.com/malaika-umbreen/Home-SOC-Lab)** — Full deployment documentation for a self-hosted SIEM using Wazuh, Sysmon, and open-source security tools.
+-  **[Open-Claw-Deployment](https://github.com/malaika-umbreen/OPEN-CLAW-Deployment)** — AI-powered SOC automation — OpenClaw AI agent orchestration.
+-  **[SOC-Lab-BruteForce-SSH](https://github.com/malaika-umbreen/SOC-Lab-BruteForce-SSH)** — SSH brute force simulation · Wazuh SIEM detection · Incident report
+-  **[SOC-Network-Attacks-Lab](https://github.com/malaika-umbreen/SOC-Network-Attacks-Lab)** — Nmap · SMB enumeration · Network attack detection
+-  **[Extensive-EDA](https://github.com/malaika-umbreen/Extensive-EDA)** — Data analysis & ML visualization pipeline
+-  **[Employee-Management](https://github.com/malaika-umbreen/Employee-Management)** — Full-stack web system · PHP · MySQL · HTML/CSS
   
 <br clear="right"/>
 
@@ -164,24 +164,24 @@ The core idea: instead of relying on 𝗸𝗻𝗼𝘄𝗻 𝗮𝘁𝘁𝗮𝗰�
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MalaikaUmbreen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalaikaUmbreen&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=malaika-umbreen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika-umbreen&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MalaikaUmbreen&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=malaika-umbreen&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MalaikaUmbreen/MalaikaUmbreen/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MalaikaUmbreen/MalaikaUmbreen/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/MalaikaUmbreen/MalaikaUmbreen/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malaika-umbreen/malaika-umbreen/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malaika-umbreen/malaika-umbreen/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/malaika-umbreen/malaika-umbreen/output/github-snake.svg" />
 </picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Malaika-Umbreen&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=malaika-umbreen&theme=tokyo-night&hide_border=true" />
 
 </div>
 
